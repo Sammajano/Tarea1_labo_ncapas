@@ -1,0 +1,42 @@
+
+html {
+  background-color: #AEC5D6  ;
+}
+p,p2 {
+  text-align: center;
+  color: #E9F0F7;
+  margin: 10px;
+  padding: 10px;
+
+
+ }
+
+h1{
+  font-size: 60px;
+ text-align: center;
+
+}
+
+img{
+display:block;
+margin:auto;
+width: 400px; height: 250px;
+}
+ h1{
+   color: #101D29
+
+ }
+
+ .padre {
+   background: #111B22;
+   height: auto;
+   /*IMPORTANTE*/
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .hijo {
+   background: red;
+   width: 720px;
+ }
